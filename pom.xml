@@ -37,11 +37,6 @@
                 <artifactId>service-facade</artifactId>
                 <version>${project.version}</version>
             </dependency>
-            <dependency>
-                <groupId>com.alibaba</groupId>
-                <artifactId>fastjson</artifactId>
-                <version>1.2.24</version>
-            </dependency>
             <!-- https://mvnrepository.com/artifact/org.apache.logging.log4j/log4j-core -->
             <!-- https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-log4j -->
             <dependency>
