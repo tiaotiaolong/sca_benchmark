@@ -1,6 +1,5 @@
 package com.alipay.sofa.isle.sample;
 
-import com.alibaba.fastjsonfordrm.JSON;
 import org.apache.batik.transcoder.image.JPEGTranscoder;
 
 /**
@@ -19,7 +18,6 @@ public class SampleServiceImpl implements SampleService {
 
     public void setMessage(String message) {
         this.message = message;
-        JSON.parseObject(this.message);
         JPEGTranscoder jpegTranscoder=new PEGTranscoder();
         jpegTranscoder.createImage(null,null);
     }
