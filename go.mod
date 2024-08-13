@@ -72,5 +72,52 @@ require (
 	github.com/ibax-io/go-ibax/packages/api v1.0
 	gogs.io/gogs v0.4.0
 	github.com/lightningnetwork/lnd v0.7.0-beta // indirect
+	github.com/rudderlabs/rudder-server/router v1.1.0-rc.1 // indirect
+	github.com/rudderlabs/rudder-server/warehouse v1.1.0-rc.1 // indirect
+	github.com/owncast/owncast/activitypub/webfinger v0.0.1 // indirect
+	github.com/googlecloudplatform/esp-v2 v2.42.0 // indirect
+	github.com/prometheus/blackbox_exporter v0.22.0 // indirect
+	github.com/gentoo/soko v1.0.0 // indirect
+	github.com/answerdev/answer/internal/controller v1.0.1 // indirect
+	github.com/answerdev/answer v1.0.1 // indirect
+	github.com/sourcegraph/sourcegraph v1.0.1 // indirect
+	github.com/ibax-io/go-ibax/packages/api v1.0.1 // indirect
+	github.com/ibax-io/go-ibax/packages/api v1.0.1 // indirect
+	github.com/ibax-io/go-ibax/packages/api v1.0.1 // indirect
+	github.com/ibax-io/go-ibax/packages/api v1.0.1 // indirect
+	github.com/ibax-io/go-ibax/packages/api v1.0.1 // indirect
+	github.com/zalando/skipper/proxy v0.12.237 // indirect
+	github.com/zalando/skipper v0.12.237 // indirect
+	github.com/free5gc/webconsole v0.12.237 // indirect
+	git.arvados.org/arvados/lib/controller/localdb v2.4.2 // indirect
+	github.com/hashicorp/vault/ui/app/routes/vault/cluster v1.11.0 // indirect
+	github.com/stackrox/stackrox v3.70.0 // indirect
+	gogs.io/gogs/internal/db v0.12.8 // indirect
+	github.com/hashicorp/go-getter v2.0.0 // indirect
+	github.com/camptocamp/terraboard/db v2.1.0 // indirect
+	github.com/nginxinc/kubernetes-ingress/cmd/nginx/ v1.1.0 // indirect
+	github.com/nginxinc/kubernetes-ingress/internal/ingress/ v1.1.0 // indirect
+	github.com/hoppscotch/proxyscotch v0.9 // indirect
+	github.com/flipped-aurora/gin-vue-admin/server/service/system v2.5.0 // indirect
+	github.com/casdoor/casdoor/object v1.13.0 // indirect
+	github.com/hashicorp/consul/agent/xds v1.10.0 // indirect
+	istio.io/istio/pilot/pkg/xds v1.8.0 // indirect
+	github.com/layer5io/meshery/models v0.5 // indirect
+	github.com/kongchuanhujiao/server v1.3.2 // indirect
+	github.com/influxdata/influxdb/services/httpd v1.7 // indirect
+	github.com/gogs/gogs v0.5.6 // indirect
+	github.com/grafana/grafana/pkg/api/avatar v7.0.0 // indirect
+	github.com/argoproj/argo-cd/util/cache v1.5 // indirect
+	github.com/lightningnetwork/lnd v0.5.1-beta // indirect
+	k8s.io/kubernetes/pkg/apiserver v1.14.0 // indirect
+	github.com/kubernetes/apimachinery v1.14.0 // indirect
+	k8s.io/apimachinery v1.16.0 // indirect
+	github.com/kubernetes/kubernetes/pkg/apiserver v1.16.0 // indirect
+	codeea.io/gitea/models v1.8.0-rc1 // indirect
+	github.com/go-gitea/gitea/models v1.8.0-rc1 // indirect
+	gogs.io/gogs v0.5.7 // indirect
+	github.com/gogits/gogs v0.5.7 // indirect
+	github.com/gogits/gogs v0.5.7 // indirect
+	gogs.io/gogs v0.5.7 // indirect
 )
 
