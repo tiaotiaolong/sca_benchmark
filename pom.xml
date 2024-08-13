@@ -17,6 +17,7 @@
     <modules>
         <module>service-facade</module>
         <module>service-provide</module>
+        <module>service-ttt</module>
     </modules>
 
     <properties>
