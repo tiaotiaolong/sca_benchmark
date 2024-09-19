@@ -21,7 +21,7 @@
 
     <properties>
         <sofa.boot.version>2.4.2</sofa.boot.version>
-        <solr>9.0.1</solr>
+        <solr>9.6.1</solr>
         <batik>1.6.1</batik>
     </properties>
 
