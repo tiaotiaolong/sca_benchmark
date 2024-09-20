@@ -100,16 +100,28 @@
 <dependency>
     <groupId>com.google.auto.value</groupId>
     <artifactId>auto-value</artifactId>
-    <version>1.4-rc3</version>
+    <version>1.4-rc2</version>
 </dependency>
 <dependency>
     <groupId>com.github.parisoft</groupId>
     <artifactId>resty</artifactId>
-    <version>0.0.12</version>
+    <version>0.1.0</version>
 </dependency>
-
-
-
+<dependency>
+    <groupId>org.hiforce.lattice</groupId>
+    <artifactId>lattice-maven-build-model</artifactId>
+    <version>1.0.18.7</version>
+</dependency>
+<dependency>
+    <groupId>org.osgi</groupId>
+    <artifactId>org.osgi.service.condpermadmin</artifactId>
+    <version>1.1.2</version>
+</dependency>
+<dependency>
+    <groupId>org.osgi</groupId>
+    <artifactId>org.osgi.service.feature</artifactId>
+    <version>1.0.0</version>
+</dependency>
     </dependencies>
 
 
